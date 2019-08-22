@@ -1,16 +1,18 @@
 name: FlutterNews
 description: A new Flutter application.
 
+version: 1.0.0+1
+
 dependencies:
   flutter:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
 
-  url_launcher: ^4.0.2
-  share: ^0.6.0+1
-  http: ^0.12.0
-  bsev: ^0.8.0
+  url_launcher: ^5.1.2
+  share: ^0.6.2+1
+  http: ^0.12.0+2
+  bsev: ^0.8.4
 
 dev_dependencies:
   flutter_test:
